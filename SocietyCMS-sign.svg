@@ -14,9 +14,9 @@
    viewBox="0 0 512 512.00001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91pre3 r13670"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="SocietyCMS-sign.svg"
-   inkscape:export-filename="E:\Github\Artwork\SocietyCMS-sign.png"
+   inkscape:export-filename="SocietyCMS-sign.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -27,18 +27,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="277.97518"
-     inkscape:cy="231.94155"
+     inkscape:cx="159.18124"
+     inkscape:cy="316.79436"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1138"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-width="1871"
+     inkscape:window-height="1176"
+     inkscape:window-x="1969"
+     inkscape:window-y="24"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -69,7 +69,7 @@
      id="layer1"
      transform="translate(0,-540.36216)">
     <rect
-       style="fill:#2c3e50;fill-opacity:1"
+       style="fill:#2185d0;fill-opacity:1"
        id="rect4372"
        width="512"
        height="512"

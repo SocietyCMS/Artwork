@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="277.97518"
+     inkscape:cx="173.32338"
      inkscape:cy="231.94155"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,10 +35,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-width="1871"
+     inkscape:window-height="1176"
+     inkscape:window-x="1969"
+     inkscape:window-y="24"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,12 +80,12 @@
        inkscape:connector-curvature="0" />
     <g
        transform="matrix(0,-1.0425615,1,0,-10,-36.329806)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2185d0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text3478">
       <path
          inkscape:connector-curvature="0"
          d="m -1041.548,234.83114 c 0,205.68468 147.55083,326.2789 261.76832,295.67442 83.88592,-22.47716 97.38868,-102.99723 109.37202,-175.26361 10.68587,-62.8943 20.25401,-118.22559 54.83451,-94.85932 19.93737,13.4718 33.93936,59.61948 33.93936,104.41106 0,53.7499 -16.88801,84.36954 -17.13194,84.8611 -1.22771,2.00938 -1.22771,5.72669 -0.24447,8.35725 1.21699,2.10566 3.13678,2.23451 4.31987,-0.23795 0.93734,-1.50718 18.32817,-34.14641 18.32817,-91.50656 0,-49.8784 -15.99977,-101.87068 -39.21099,-118.80627 -42.57311,-31.06261 -53.98403,33.68407 -65.89684,101.45961 -12.42241,71.5295 -25.35843,144.88155 -98.30969,160.64632 -96.37376,20.82637 -211.41365,-88.29352 -211.41365,-260.55354 0,-174.812011 136.25222,-202.031204 137.37806,-202.140135 5.55071,-0.537064 4.45091,-9.267313 -1.12584,-18.765997 -5.7097,-9.725137 -15.13385,-16.553743 -21.21233,-16.419452 -4.97153,0.109836 -165.39456,20.21926 -165.39456,223.143074 0,0 0,0 0,0"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:180px;font-family:Quicksand;-inkscape-font-specification:'Quicksand Light';fill:#2c3e50;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:180px;font-family:Quicksand;-inkscape-font-specification:'Quicksand Light';fill:#2185d0;fill-opacity:1"
          id="path3483" />
     </g>
     <g
@@ -95,7 +95,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path3514"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Light';fill:#2c3e50;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Light';fill:#2185d0;fill-opacity:1"
          d="m -399.20627,826.99792 c 0,-145.3228 -143.41022,-201.52078 -238.82836,-160.87637 -27.68039,11.94673 -48.48368,30.92008 -62.96369,51.24359 -1.28631,1.96818 -1.71174,4.58341 -0.64504,5.81777 1.07718,1.55969 2.82285,1.05681 4.15035,-0.59585 13.70071,-19.19106 33.53222,-35.78035 59.45838,-46.01207 86.08437,-33.97305 209.08094,20.26459 209.08094,148.21274 0,126.54983 -122.99657,162.86015 -209.08094,116.33989 -26.22021,-14.16947 -46.0081,-33.61649 -59.68073,-54.77614 -1.10515,-2.0641 -2.85082,-2.50574 -4.14217,-1.1978 -0.85253,1.17363 -0.4271,3.85087 0.85921,6.00654 13.99108,22.17261 35.2833,44.43957 62.96369,60.42085 95.41814,55.08973 238.82836,19.25678 238.82836,-124.58315 0,0 0,0 0,0" />
     </g>
     <path
